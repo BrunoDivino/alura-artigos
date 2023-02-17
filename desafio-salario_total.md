@@ -2,6 +2,8 @@
 
 ---
 
+![Imagem que mostra o confronto entre dois lutadores de artes marciais com uma descrição em letras garrafais que diz: Challenge Accepted](https://media.giphy.com/media/3WPKHcTih1xwQ/giphy.gif)
+
 Você já acumulou conhecimento suficiente da linguagem JavaScript para entender princípios básicos de lógica de programação.
 
 Agora é hora de colocar seus estudos à prova e me ajudar a solucionar um super desafio!
@@ -20,7 +22,7 @@ Ambos **SALÁRIO FIXO** e **TOTAL DE VENDAS DO MÊS** são valores de precisão 
 
 ### Exemplos de Input
 
-Exemplo 1
+Exemplo 1:
 ```
 Lucas
 500
